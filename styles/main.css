@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(226, 43, 220);
+    color:aquamarine;
+}
+main{
+    padding:1rem;
+}
+.card{
+    display:inline-block;
+}
