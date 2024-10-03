@@ -1,10 +1,13 @@
 body{
-    background-color: rgb(226, 43, 220);
-    color:aquamarine;
+    background-color: rgba(253, 142, 249, 0.342);
+    color:rgb(222, 92, 142);
 }
 main{
-    padding:1rem;
+    padding:1rem
 }
 .card{
     display:inline-block;
+}
+label{
+display:block;
 }
