@@ -16,5 +16,5 @@ display:block;
 .card-img-top{
     width:18rem;
     height: 18rem;
-    object-fit: contain;
+    object-fit: cover;
 }
